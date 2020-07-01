@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "208875442757",
+    "firebase_url": "https://navidraft.firebaseio.com",
+    "project_id": "navidraft",
+    "storage_bucket": "navidraft.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208875442757:android:6835c8aaf43d591829092c",
+        "android_client_info": {
+          "package_name": "com.example.navidraft"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "208875442757-u3p7us13rarhd5ljp01gbc1ufb3djrjt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoFVZBSo7VhQ6MTbQueEeWEcY3S8jFUwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "208875442757-u3p7us13rarhd5ljp01gbc1ufb3djrjt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

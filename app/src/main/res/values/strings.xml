@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">NaviDraft</string>
+    <string name="title_activity_registration">Registration</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="Google_Maps_API_Key">AIzaSyAgQRJcsmBfDSbb9hqgoTWs1GkXllL-DAI</string>
+    <string name="title_activity_interface">Interface</string>
+    <string name="title_explore">Explore</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_settings">Settings</string>
+</resources>

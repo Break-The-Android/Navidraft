@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/aguafina_script</item>
+        <item>@font/cherry_swash</item>
+        <item>@font/crafty_girls</item>
+        <item>@font/faster_one</item>
+        <item>@font/kranky</item>
+        <item>@font/mountains_of_christmas</item>
+        <item>@font/oregano</item>
+        <item>@font/quintessential</item>
+        <item>@font/voltaire</item>
+    </array>
+</resources>
